@@ -1,0 +1,20 @@
+factura
+
+total: calcular el iva + el impuesto patriotico (10% + 100$)
+
+impresora
++imprimir()
++escanear()
+
+
+epsonLXY extends Impresora
++imprimir()
++escanear()
+
+
+epsonZZW
++imprimir()
++escanear()
++enviarFAX()
+
+patrones builder & service locator.
